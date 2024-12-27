@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|c:\\users\\berkay\\documents\\productordermanagementsystem\\productordermanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|solutionrelative:productordermanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|c:\\users\\berkay\\documents\\productordermanagementsystem\\productordermanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|solutionrelative:productordermanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|c:\\users\\berkay\\documents\\productordermanagementsystem\\productordermanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|solutionrelative:productordermanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|c:\\users\\berkay\\documents\\productordermanagementsystem\\productordermanagementsystem\\models\\productordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|solutionrelative:productordermanagementsystem\\models\\productordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|c:\\users\\berkay\\documents\\productordermanagementsystem\\productordermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BE105C-7D1B-441C-AF2F-55E0251D5839}|ProductOrderManagementSystem\\ProductOrderManagementSystem.csproj|solutionrelative:productordermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductOrderManagementSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "ProductOrderManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:51:16.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductOrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Models\\ProductOrderContext.cs",
+              "RelativeDocumentMoniker": "ProductOrderManagementSystem\\Models\\ProductOrderContext.cs",
+              "ToolTip": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Models\\ProductOrderContext.cs",
+              "RelativeToolTip": "ProductOrderManagementSystem\\Models\\ProductOrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:25:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ProductOrderManagementSystem\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ProductOrderManagementSystem\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:25:26.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductOrderManagementSystem\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductOrderManagementSystem\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:57:44.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ProductOrderManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Berkay\\Documents\\ProductOrderManagementSystem\\ProductOrderManagementSystem\\Program.cs",
+              "RelativeToolTip": "ProductOrderManagementSystem\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:36:49.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

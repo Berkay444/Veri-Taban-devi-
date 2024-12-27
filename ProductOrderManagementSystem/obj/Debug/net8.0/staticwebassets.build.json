@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6ReliEXSwffZpjCybOpti5qJTCc35kkF3q8pMi3aHKA=",
+  "Source": "ProductOrderManagementSystem",
+  "BasePath": "_content/ProductOrderManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
